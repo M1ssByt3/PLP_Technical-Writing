@@ -57,7 +57,12 @@ For Non-Technical Users (End-Users, Managers, Clients):
   Using plain language instead of technical jargon is crucial because it ensures clarity, accessibility, and engagement, especially for audiences with limited technical knowledge. Plain language makes complex concepts easier to understand, reducing confusion and frustration. It also enhances communication between technical and non-technical stakeholders, such as developers, managers, and end-users, ensuring everyone can grasp key information without needing prior expertise. Additionally, it improves user experience by making documentation, guides, and reports more readable, actionable, and inclusive. By simplifying language, writers can bridge the gap between expertise levels, foster better decision-making, and create content that is both effective and widely accessible.
 # 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
   Simplifying terms improves comprehension by making the content more direct, relatable, and easier to understand.
-    Here are some examples:
+   Here are some examples:
+
+    Instead of : "Execute the command." 
+      Use: "Run the command."
+        "Run" is more direct and familiar, especially in a computer-related context.
+    
     `  Instead of : "Deactivate the peripheral device."
           Use: "Turn off the device."
                  "Turn off" is a standard phrase that most people understand, regardless of their technical background.
