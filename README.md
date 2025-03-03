@@ -38,7 +38,7 @@ For Non-Technical Users (End-Users, Managers, Clients):
 
   Use Feedback Loops: If possible, provide drafts for review and solicit feedback. Encourage questions and comments.   
 
-# What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+# 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
   Use Simple & Clear Language : Avoid technical jargon or explain it in layman’s terms.
   
@@ -53,10 +53,15 @@ For Non-Technical Users (End-Users, Managers, Clients):
 
   Use Interactive & Adaptive Learning : Offer collapsible sections for advanced details. Provide links to beginner-friendly resources.
   
-# Why is it important to use plain language instead of technical jargon in your writing?
+# 5. Why is it important to use plain language instead of technical jargon in your writing?
   Using plain language instead of technical jargon is crucial because it ensures clarity, accessibility, and engagement, especially for audiences with limited technical knowledge. Plain language makes complex concepts easier to understand, reducing confusion and frustration. It also enhances communication between technical and non-technical stakeholders, such as developers, managers, and end-users, ensuring everyone can grasp key information without needing prior expertise. Additionally, it improves user experience by making documentation, guides, and reports more readable, actionable, and inclusive. By simplifying language, writers can bridge the gap between expertise levels, foster better decision-making, and create content that is both effective and widely accessible.
-# Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
-# How can using examples and visuals help in explaining complex concepts more clearly?
+# 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+  Simplifying terms improves comprehension by making the content more direct, relatable, and easier to understand.
+    Here are some examples:
+    `  Instead of : "Deactivate the peripheral device."
+          Use: "Turn off the device."
+                 "Turn off" is a standard phrase that most people understand, regardless of their technical background.
+# 7.  How can using examples and visuals help in explaining complex concepts more clearly?
 # What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 # How do headings and subheadings improve the readability and organization of technical documents?
 # What are some best practices for creating effective headings and subheadings?
